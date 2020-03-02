@@ -1,0 +1,11 @@
+/home/fred/Documents/Source/bin/Debug/netcoreapp3.1/Source
+/home/fred/Documents/Source/bin/Debug/netcoreapp3.1/Source.deps.json
+/home/fred/Documents/Source/bin/Debug/netcoreapp3.1/Source.runtimeconfig.json
+/home/fred/Documents/Source/bin/Debug/netcoreapp3.1/Source.runtimeconfig.dev.json
+/home/fred/Documents/Source/bin/Debug/netcoreapp3.1/Source.dll
+/home/fred/Documents/Source/bin/Debug/netcoreapp3.1/Source.pdb
+/home/fred/Documents/Source/obj/Debug/netcoreapp3.1/Source.csprojAssemblyReference.cache
+/home/fred/Documents/Source/obj/Debug/netcoreapp3.1/Source.AssemblyInfoInputs.cache
+/home/fred/Documents/Source/obj/Debug/netcoreapp3.1/Source.AssemblyInfo.cs
+/home/fred/Documents/Source/obj/Debug/netcoreapp3.1/Source.dll
+/home/fred/Documents/Source/obj/Debug/netcoreapp3.1/Source.pdb
